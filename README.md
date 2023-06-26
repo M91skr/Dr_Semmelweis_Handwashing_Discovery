@@ -2,7 +2,6 @@
 
 
 ## Description
-In this code, a dataset of previous Nobel Prize winners is analyzed.
 
 Today we will travel in time and space.
 We will be Dr. Ignaz Semmelweiss, a Hungarian physician born in 1818 who worked at the Vienna General Hospital.
